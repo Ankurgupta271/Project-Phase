@@ -4,11 +4,19 @@ A JavaFX application to manage tasks with priorities and deadlines, featuring re
 
 ## Features
 
-- Add tasks with title, priority (High, Medium, Low), and deadline.
-- View all scheduled tasks in a list.
-- Task reminders triggered on deadline.
-- Tasks saved and loaded from a file (persistent storage).
-- Simple and clean user interface with styling.
+- **Add Tasks:** Create tasks with a title, priority level (High, Medium, Low), and deadline (date and time).
+- **Task Prioritization:** Tasks are managed based on priority for efficient scheduling.
+- **Task List View:** View all tasks in a clean, scrollable list with clear formatting.
+- **Task Reminders:** Get timely reminders for tasks at their deadlines (currently via console output).
+- **Persistent Storage:** Tasks are saved to and loaded from JSON files to maintain data between sessions.
+- **Custom Styling:** Clean and modern UI enhanced with CSS styling.
+- **User-friendly Input:** Input fields include prompts and default values for easier data entry.
+- **Flexible Time Selection:** DatePicker plus separate hour and minute fields for precise deadline setting.
+- **Graceful Shutdown:** Saves all tasks automatically on exit to prevent data loss.
+- **Expandable Architecture:** Modular design with separate classes for task management, reminders, and file handling—easy to extend with features like notifications or task editing.
+- **Error Handling:** Basic validation to ensure tasks have titles and valid deadlines before adding.
+- **Cross-Platform:** Runs on any OS supporting Java 17+ and JavaFX.
+- **Open Source Friendly:** Easily customizable and extendable for your own task scheduling needs.
 
 ## Screenshots
 
