@@ -14,11 +14,11 @@ A JavaFX application to manage tasks with priorities and deadlines, featuring re
 
 ### Adding a New Task
 
-![Add Task](screenshots/1.png)
+![Add Task](1.png)
 
 ### Reminder Console Output
 
-![Reminder Console](screenshots/2.png)
+![Reminder Console](2.png)
 
 > **Note:** Screenshots are for illustration; update paths with your actual images.
 
