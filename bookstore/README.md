@@ -1,4 +1,4 @@
-# Bookstore API
+# RESTful Bookstore API
 
 A simple RESTful API built with Spring Boot for managing Books and Authors, using an in-memory H2 database.
 
