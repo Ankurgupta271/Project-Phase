@@ -1,0 +1,7 @@
+com\example\bookstore\controller\BookController.class
+com\example\bookstore\model\Book.class
+com\example\bookstore\controller\AuthorController.class
+com\example\bookstore\model\Author.class
+com\example\bookstore\repository\AuthorRepository.class
+com\example\bookstore\repository\BookRepository.class
+com\example\bookstore\BookstoreApplication.class
