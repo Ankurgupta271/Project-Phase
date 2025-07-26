@@ -131,9 +131,9 @@ server.port=8805
 
 ## Testing with Postman
 
-### 1. Create Author
+### 1. update Author
 
-![Create Author - Postman](1.png)
+![Update Author - Postman](1.png)
 
 ### 2. Create Book
 
