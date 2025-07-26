@@ -183,7 +183,7 @@ SELECT * FROM book;
 
 ## Contact
 
-For questions or suggestions, contact [Your Name] at [your.email@example.com].
+For questions or suggestions, contact Ankur Gupta at guptaankur271@gmail.com
 
 ---
 
