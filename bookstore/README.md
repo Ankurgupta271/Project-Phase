@@ -131,7 +131,7 @@ server.port=8805
 
 ## Testing with Postman
 
-### 1. update Author
+### 1. Update Author
 
 ![Update Author - Postman](1.png)
 
